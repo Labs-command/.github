@@ -7,6 +7,8 @@
 *Tasks* - CRUD данных о задачах  
 
 **Схема БД**: https://lucid.app/lucidchart/9a2bb44e-4c41-475e-9b11-c413a2907a63/edit?viewport_loc=-90%2C66%2C2560%2C1200%2C0_0&invitationId=inv_56508806-2c52-4169-b927-61dd52abc0a5
+![Схема БД](https://github.com/Labs-command/pius_common/assets/93987825/777b071d-ec24-43d4-8cbc-6435428a14b1)
+
 # План работ
 
 | № | ФИО         | Название сервиса | Краткое описание задачи                                                                                                                                 | Срок выполнения |
